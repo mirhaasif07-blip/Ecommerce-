@@ -26,3 +26,6 @@ Laravel
 MySQL
 Bootstrap
 Yajra DataTables
+
+Author :
+Developed by Mirha Asif
